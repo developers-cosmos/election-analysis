@@ -66,10 +66,10 @@ the project consists of the following process:
 3.  geo pandas
 
 4.  Bokeh
-
-
-
-  
+# *Data*
+India maps shaply files are form [arcgis.com](https://www.arcgis.com/home/item.html?id=cf9b387de48248a687aafdd4cdff1127)
+# *Bokeh Documentation*
+bokeh documentation [here](https://docs.bokeh.org/en/latest/index.html)
 # *MOTIVATION*
 
 This specification was motivated primarily to reduce the inherent complexity for election officials in collecting and publishing election data, 
